@@ -51,6 +51,19 @@ Settings:
 * Create Right Click Shortcut - Note: Must be an administrator since this will modify Windows Registry. Will create a shortcut to launch giffer.exe when right clicking on a file.
 * Remove Right Click Shortcut - Note: Must be an administrator since this will modify Windows Registry. WIll remove the right click shortcut for giffer.exe
 
+Shortcuts:  
+* Ctrl+O: Open video
+* Ctrl+S: Save video as .gif
+* Space: Play/Pause
+* D: Play/Pause
+* E: Go to start of video
+* S: Set Start Frame
+* F: Set End Frame
+* ,: Move back one frame
+* .: Move forward one frame
+* Left arrow: Skip backward
+* Right arrow: Skip forward
+
 ---------------------------------------------------------------
 
 To run script instead of binary, use Python 3.7.x and run "build_giffer.py".  
