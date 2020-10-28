@@ -1,7 +1,8 @@
 # giffer
 Tool to quickly extract a .gif from a video using ffmpeg and PySide2
 
-![VIDEO](https://media.giphy.com/media/xMcA6GZptd9aT5LOxx/giphy.gif)
+[Watch a video](https://youtu.be/nioJpRmV4S4) on how to install, use, and run giffer.exe or read below.  
+[![VIDEO](https://media.giphy.com/media/xMcA6GZptd9aT5LOxx/giphy.gif)](https://youtu.be/YCu1AMu6fxI "giffer")  
 
 **Requires**:  
 * FFmpeg - https://ffmpeg.org/download.html
@@ -79,7 +80,6 @@ To freeze/build the binary using pyinstaller, run the following command in the t
 ----------------------------------------------------------------
 
 Potential Future Features:
-- [ ] Video Walkthrough of how to use giffer
 - [ ] Multi Threading so UI doesnt freeze up on export, etc.
 - [ ] Specify other formats to export, rather than just .gif
 - [ ] Custom slider that has start and end marks
